@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm a backend developer
 
 <!--
 **teria314/teria314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,47 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=teria314&theme=nord&show_icons=true" width="42%" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teria314&layout=compact&theme=nord" />
+</a>
+<a href="s">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=teria314&theme=nord_dark" />
+</a>
+  
+## 🔨 Tech Stack 🔨
+
+BACKEND
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?&style=for-the-badge&logo=NestJS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
+
+
+DB
+
+![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![mongodb](https://img.shields.io/badge/mongodb-47A2481.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+
+INFRA
+
+![amazonaws](https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
+![googlecloud](https://img.shields.io/badge/googlecloud-4285F4.svg?&style=for-the-badge&logo=googlecloud&logoColor=white)
+
+
+</br>
+</br>
+
+## 📞 Contact 📞
+
+<a href="mailto:bacteria3141592@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+</a>
+
+</br>
