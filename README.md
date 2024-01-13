@@ -53,6 +53,13 @@ INFRA
 </br>
 </br>
 
+<h3 align="left">💫 Released(Deployed) Service</h3>
+- <a href="http://meety.site/"><b>Meety</b></a> (Contribution : Backend)
+<br/>
+
+<h3 align="left">🏃 Experience</h3>
+- Spacemap 백엔드 인턴 (2023.12.26 ~ )
+
 ## 📞 Contact 📞
 
 <a href="mailto:bacteria3141592@gmail.com">
