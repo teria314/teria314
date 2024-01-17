@@ -54,8 +54,7 @@ INFRA
 </br>
 
 <h3 align="left">💫 Released(Deployed) Service</h3>
-- 대학방 (서비스 종료. Contribution : Backend )
-
+- 대학방 (서비스 종료. Contribution : Backend ) <br/>
 - <a href="http://meety.site/"><b>Meety</b></a> (Contribution : Backend)
 <br/>
 
