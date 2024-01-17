@@ -1,7 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=Park%20Jisun&fontColor=666666&fontSize=80&animation=fadeIn&desc=Teria314&descSize=25&descAlign=68&descAlignY=81)
-
-### Hi I'm a backend developer
-
 <!--
 **teria314/teria314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=Park%20Jisun&fontColor=666666&fontSize=80&animation=fadeIn&desc=Teria314&descSize=25&descAlign=68&descAlignY=81)
+
+### Hi I'm a backend developer 
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=teria314&theme=nord&show_icons=true" width="42%" />
@@ -54,11 +54,12 @@ INFRA
 </br>
 
 <h3 align="left">💫 Released(Deployed) Service</h3>
+- 대학방 (서비스 종료. Contribution : Backend )
 - <a href="http://meety.site/"><b>Meety</b></a> (Contribution : Backend)
 <br/>
 
 <h3 align="left">🏃 Experience</h3>
-- Spacemap 백엔드 인턴 (2023.12.26 ~ )
+- Spacemap 백엔드 인턴 (2023.12.26 ~ 2024.02.26)
 
 ## 📞 Contact 📞
 
