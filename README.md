@@ -59,7 +59,7 @@ INFRA
 <br/>
 
 <h3 align="left">🏃 Experience</h3>
-- Spacemap 백엔드 인턴 (2023.12.26 ~ 2024.02.26)
+- Spacemap 백엔드 인턴 (2023.12.26 ~ 2024.02.29)
 
 ## 📞 Contact 📞
 
