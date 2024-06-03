@@ -31,12 +31,13 @@ Here are some ideas to get you started:
 
 BACKEND
 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?&style=for-the-badge&logo=NestJS&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?&style=for-the-badge&logo=NestJS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
+
 
 
 DB
@@ -54,7 +55,7 @@ INFRA
 </br>
 
 <h3 align="left">💫 Released(Deployed) Service</h3>
-- <a href="https://showpang.org/"><b>⭐️showpang (music composer) </b></a> (Contribution : Backend)
+- <a href="https://showpang.org/"><b>⭐️ showpang (music composer) </b></a> (Contribution : Backend)
 <br/>
 - 대학방 (서비스 종료. Contribution : Backend ) <br/>
 - Meety (서비스 종료. Contribution : Backend)
