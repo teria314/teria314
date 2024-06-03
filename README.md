@@ -54,9 +54,10 @@ INFRA
 </br>
 
 <h3 align="left">💫 Released(Deployed) Service</h3>
-- 대학방 (서비스 종료. Contribution : Backend ) <br/>
-- <a href="http://meety.site/"><b>Meety</b></a> (Contribution : Backend)
+- <a href="https://showpang.org/"><b>⭐️showpang (music composer) </b></a> (Contribution : Backend)
 <br/>
+- 대학방 (서비스 종료. Contribution : Backend ) <br/>
+- Meety (서비스 종료. Contribution : Backend)
 
 <h3 align="left">🏃 Experience</h3>
 - Spacemap 백엔드 인턴 (2023.12.26 ~ 2024.02.29)
