@@ -61,7 +61,7 @@ INFRA
 - Meety (서비스 종료. Contribution : Backend)
 
 <h3 align="left">🏃 Experience</h3>
-- Spacemap 백엔드 인턴 (2023.12.26 ~ 2024.02.29)
+- Spacemap 백엔드 인턴 (2023.12.26 ~ 2024.02.29) <br/>
 - 11번가 버티컬개발팀 인턴 (2024.09.09 ~)
 
 ## 📞 Contact 📞
